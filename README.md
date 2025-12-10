@@ -23,7 +23,16 @@ Este proyecto es una aplicación desarrollada en **Laravel 12** que permite ver 
 
 ```Comando_que_use_para_los_cambios
 
+$ git config --global user.name FRANCISCO-ATEMPA
+$ git config --global user.email
 cd C:/Users/franc/mi-proyecto
+$ git status
+$ git init
+$ git add .
+$ git status
+$ git add README.md (SE AGREGAN LOS CAMBIOS EXPECIFICOS O SE COLOCA EL . SI SE HACEN VARIOS CAMBIOS)
+$ git commit -m "(COMENTARIO DEL CAMBIO)"
+$ git push origin main (NOMBRE DE LA RAIZ DONDE VA A ESTAR EL PROYECTO)
 
 
 ```Redes_Sociales
