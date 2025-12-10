@@ -21,6 +21,11 @@ Este proyecto es una aplicación desarrollada en **Laravel 12** que permite ver 
 - **Composer 2.7+**  
 - **Git**
 
+```Comando_que_use_para_los_cambios
+
+cd C:/Users/franc/mi-proyecto
+
+
 ```Redes_Sociales
 
 https://www.instagram.com/p/DPZ14u4Dk6N/?utm_source=ig_web_copy_link
