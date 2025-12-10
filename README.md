@@ -14,7 +14,6 @@ Este proyecto es una aplicación desarrollada en **Laravel 12** que permite ver 
 - Practicar los comandos de Git
 - Subir proyectos a GitHub
 - Conocer la estructura moderna de Laravel
-- Preparación para despliegues futuros
 
 
 ## Requisitos
