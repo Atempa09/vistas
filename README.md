@@ -1,6 +1,6 @@
-# Mi Proyecto en Laravel 12 Autor: Francisco Atempa
+# Mi Proyecto en Laravel 12 Autor: **Francisco Atempa**
 
-Este proyecto es una aplicación desarrollada en Laravel que permite ver varias vistas conectadas entre si y una operación basica que es la suma sin guardar la informacion en una base de datos.
+Este proyecto es una aplicación desarrollada en **Laravel 12** que permite ver varias vistas conectadas entre si y una operación basica que es la suma sin guardar la informacion en una base de datos.
 
 ## Características
 - Laravel 12
@@ -8,9 +8,20 @@ Este proyecto es una aplicación desarrollada en Laravel que permite ver varias 
 - MySQL
 - Sistema de sesiones con base de datos
 
-Este repositorio contiene un proyecto de vistas ideal para hacer las pruebas de Git:
+# Este repositorio contiene un proyecto de vistas ideal para hacer las pruebas de Git:
 
-Practicar los comandos de Git
-Subir proyectos a GitHub
-Conocer la estructura moderna de Laravel
-Preparación para despliegues futuros
+## Descripción
+- Practicar los comandos de Git
+- Subir proyectos a GitHub
+- Conocer la estructura moderna de Laravel
+- Preparación para despliegues futuros
+
+
+## Requisitos
+- **PHP**  
+- **Composer 2.7+**  
+- **Git**
+
+```Redes_Sociales
+
+https://www.instagram.com/p/DPZ14u4Dk6N/?utm_source=ig_web_copy_link
